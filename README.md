@@ -11,11 +11,15 @@ Proteus simulates data from the placed sensors, these data are output to Python,
 
 # Versions
 ```
-Python--------------Version 3.8
-Proteus-------------Version 8.5 SP0 (Build 22067)
-Unity---------------Version 2019.4.0f1
-VSPE----------------Version 6.2.9200.2
-Visual Studio Code--Version 1.53.2
+Python---------------Version 3.8
+Proteus--------------Version 8.5 SP0 (Build 22067)
+Unity----------------Version 2019.4.0f1
+VSPE-----------------Version 6.2.9200.2
+Visual Studio Code---Version 1.53.2
+
+Library
+ArduinoJson---------Version 6.17.2
+ApiClient-----------Version 1.0.3
 ```
 
 
